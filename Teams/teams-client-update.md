@@ -16,7 +16,7 @@ appliesto:
 - Microsoft Teams
 ---
 
-# Teams update process
+# Teams updates
 
 The Teams web app is updated weekly.
 
@@ -27,6 +27,8 @@ The desktop client updates itself automatically. Teams checks for updates every 
 Users can also manually download updates by clicking **Check for updates** on the **Profile** drop-down menu on the top right of the app. If an update is available, it will be downloaded and silently installed when the computer is idle.
 
 Users need to be signed in for updates to be downloaded.
+
+Starting July 9th, the Teams client updates will have improvements to use significantly lower network bandwidth. This is turned on by default and no action is required from admins or users.
 
 ## What about updates to Office 365 ProPlus?
 
